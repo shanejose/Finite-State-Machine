@@ -1,0 +1,2 @@
+# Finite-State-Machine
+Basically, the pattern to be recognized is a sequence of “ha” or “ho”, or a mixture of both. The sequence can be of any length (at least greater than three, i.e., the shortest sequence is “ha!” or “ho!”). There is no restriction on how many “ha”s or “ho”s the sequence can contain, and the “ha”s and “ho”s can appear in any order if the  sequence is a mixture of both. The string must end with one “!”. Implement the above FSM to recognize whether the user is laughing or not
